@@ -1,0 +1,23 @@
+{
+  "name": "imghandler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenft/imgHandler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenft/imgHandler/issues"
+  },
+  "homepage": "https://github.com/chenft/imgHandler#readme",
+  "dependencies": {
+    "puppeteer": "^2.0.0",
+    "tinify": "^1.6.0-beta.2"
+  }
+}
